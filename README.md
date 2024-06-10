@@ -3,6 +3,7 @@
 El sistema de gestión de pedidos y mesas permitirá a los usuarios ingresar los pedidos realizados por los clientes en un restaurant. Tendrán la capacidad de registrar los productos solicitados por cada mesa específica. Para ingresar un pedido, el usuario primero seleccionará la mesa correspondiente. Una vez seleccionada la mesa, el usuario podrá agregar los artículos solicitados por los clientes, indicando la cantidad y valor del producto.
 
  Instrucciones para configurar y ejecutar el proyecto.
+
 -Abre el Panel de Control de XAMPP, inicia los servicios de Apache y MySQL y crea la siguiente base de datos en phpMyAdmin.
 
 CREATE DATABASE restaurant; 
