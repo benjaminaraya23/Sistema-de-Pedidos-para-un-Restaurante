@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Orders</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ordenar en el Restaurante</h1>
+        <form id="orderForm">
+            <label for="tableNumber">Número de Mesa:</label>
+            <input type="number" id="tableNumber" name="tableNumber" required>
+            <h2>Ítems:</h2>
+            <div id="itemsContainer">
+                <!-- Aquí se agregarán dinámicamente los ítems -->
+            </div>
+            <button type="button" onclick="addItem()">Agregar Ítem</button>
+            <button type="submit">Enviar Pedido</button>
+        </form>
+        <div id="responseMessage"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
