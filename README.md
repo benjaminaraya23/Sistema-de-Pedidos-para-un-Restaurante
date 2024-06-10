@@ -1,0 +1,3 @@
+El sistema de gestión de pedidos y mesas permitirá a los usuarios ingresar los pedidos realizados por los clientes en un restaurant. Tendrán la capacidad de registrar los productos solicitados por cada mesa específica. Para ingresar un pedido, el usuario primero seleccionará la mesa correspondiente. Una vez seleccionada la mesa, el usuario podrá agregar los artículos solicitados por los clientes, indicando la cantidad y valor del producto.
+![image](https://github.com/benjaminaraya23/Sistema-de-Pedidos-para-un-Restaurante/assets/171303305/ec94e5f4-4710-446a-aeb0-593cf94baf67)
+![image](https://github.com/benjaminaraya23/Sistema-de-Pedidos-para-un-Restaurante/assets/171303305/390a9d3b-7b59-402a-80a2-ab5aaa487000)
