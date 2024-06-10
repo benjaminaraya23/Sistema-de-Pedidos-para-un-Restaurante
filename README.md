@@ -4,7 +4,7 @@ El sistema de gestión de pedidos y mesas permitirá a los usuarios ingresar los
 
  Instrucciones para configurar y ejecutar el proyecto.
 
--Ingresa el Panel de Control de XAMPP, inicia los servicios de Apache y MySQL y crea la siguiente base de datos en phpMyAdmin.
+-Ingresa al Panel de Control de XAMPP, inicia los servicios de Apache y MySQL y crea la siguiente base de datos en phpMyAdmin.
 [bd.txt](https://github.com/user-attachments/files/15779477/bd.txt)
 
 -Ingresa una terminal en Visual Studio Code y escribe node app.js. Luego de eso en un navegador para poder visualizar la página escribe localhost:3000.
